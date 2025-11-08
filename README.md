@@ -1,16 +1,51 @@
-## Hi there 👋
+# 👋 Olá! Eu sou o Kaique
 
-<!--
-**Kaique38/Kaique38** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Estudante de Desenvolvimento de Sistemas**  
+📍 ETEC de Hortolândia  
+💻 Apaixonado por tecnologia e pelo mundo da programação.  
 
-Here are some ideas to get you started:
+Gosto de criar projetos que misturam lógica e criatividade.  
+Atualmente, estou aprendendo e explorando mais sobre **JavaScript**, **React** e **GitHub**, sempre buscando evoluir como desenvolvedor.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Linguagens e Tecnologias
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="HTML" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img align="center" alt="CSS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img align="center" alt="JavaScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align="center" alt="React" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img align="center" alt="Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+</div>
+
+---
+
+## 📊 Estatísticas
+
+<div align="center">
+
+![Kaique's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeuUsuarioGitHub&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeuUsuarioGitHub&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 💡 Tecnologias e Interesses
+
+- Desenvolvimento **front-end e back-end**  
+- Uso de **Git e GitHub** para versionamento e colaboração  
+- Estudo de **React** e **React Native**  
+- Sempre aprendendo algo novo e buscando melhorar 🚀  
+
+---
+
+## 📫 Contato
+
+📧 **Email:** seuemail@gmail.com  
+🌐 **LinkedIn:** [linkedin.com/in/seuusuario]([https://linkedin.com/in/seuusuario](https://www.linkedin.com/in/kaiqueoliveiradev))  
+
+---
+
+⭐ _“A prática é o melhor jeito de transformar aprendizado em resultado.”_
