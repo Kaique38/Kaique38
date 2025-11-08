@@ -44,7 +44,7 @@ Atualmente, estou aprendendo e explorando mais sobre **JavaScript**, **React** e
 ## 📫 Contato
 
 📧 **Email:** kaique.moliveira5@gmail.com  
-🌐 **LinkedIn:** [[linkedin.com/in/kaiqueoliveiradev]([https://linkedin.com/in/seuusuario](https://www.linkedin.com/in/kaiqueoliveiradev))  
+🌐 **LinkedIn:** [linkedin.com/in/kaiqueoliveiradev]([https://linkedin.com/in/seuusuario](https://www.linkedin.com/in/kaiqueoliveiradev))  
 
 ---
 
