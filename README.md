@@ -21,13 +21,14 @@ Atualmente, estou aprendendo e explorando mais sobre **JavaScript**, **React** e
 
 ---
 
-## 📊 Estatísticas
+## 📊 Estatísticas do GitHub
 
 <div align="center">
-
+  <a href="https://github.com/Kaique38">
 ![Kaique38's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kaique38&show_icons=true&theme=tokyonight&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaique38&layout=compact&theme=tokyonight&hide_border=true)
 
+  </a>
 </div>
 
 ---
