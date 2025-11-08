@@ -25,8 +25,8 @@ Atualmente, estou aprendendo e explorando mais sobre **JavaScript**, **React** e
 
 <div align="center">
 
-![Kaique's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeuUsuarioGitHub&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeuUsuarioGitHub&layout=compact&theme=tokyonight&hide_border=true)
+![Kaique38's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kaique38&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaique38&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
