@@ -1,7 +1,7 @@
 # 👋 Olá! Eu sou o Kaique
 
 🎓 **Estudante de Desenvolvimento de Sistemas**  
-📍 ETEC de Hortolândia  
+📍 ETEC Bento Quirino
 💻 Apaixonado por tecnologia e pelo mundo da programação.  
 
 Gosto de criar projetos que misturam lógica e criatividade.  
