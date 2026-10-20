@@ -4,6 +4,8 @@
 </div>
 
 
+
+
 <div align="center">
   <a href="https://portfolio-kaique-kappa.vercel.app/"><img src="https://img.shields.io/badge/MEU_PORTF%C3%93LIO-6F1D3A?style=for-the-badge&logo=vercel&logoColor=FFF7F8" alt="Meu portfólio" /></a>
   <a href="https://www.linkedin.com/in/kaiqueoliveiradev"><img src="https://img.shields.io/badge/LINKEDIN-8A3654?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -11,16 +13,25 @@
 </div>
 
 
+
+
 ## Olá, eu sou o Kaique 👋
+
+
 
 
 Sou estudante de **Desenvolvimento de Sistemas na ETEC Bento Quirino** e gosto de transformar ideias em produtos digitais úteis. Tenho explorado desenvolvimento web de ponta a ponta: da interface e experiência de uso até APIs, dados e publicação.
 
 
+
+
 > **Aprender construindo. Melhorar a cada versão.**
 
 
+
+
 ## 🍷 Projetos em destaque
+
 
 - 🌐 **Portfólio** — meu espaço para apresentar projetos e evolução. [Visitar ↗](https://portfolio-kaique-kappa.vercel.app/)
 - 🪨 **Litoteca Digital** — acervo didático de rochas, minerais e conchas. [Visitar ↗](https://litotecaetecsumare.netlify.app/)
@@ -31,24 +42,22 @@ Sou estudante de **Desenvolvimento de Sistemas na ETEC Bento Quirino** e gosto d
 - 🎟️ **Sorteio Claro** — projeto web para criar sorteios. [Visitar ↗](https://sorteio-claro.vercel.app/)
 - 📊 **Gráfico em Movimento** — experimento interativo com visualização e movimento. [Visitar ↗](https://grafico-em-movimento.vercel.app/)
 
+
 ## 📊 Linguagens mais usadas
 
-
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaique38&layout=donut-vertical&langs_count=6&hide_border=true&bg_color=210B14&title_color=E7A1B4&text_color=F8E7EC&icon_color=B86A80" alt="Gráfico de rosca das linguagens mais usadas nos repositórios do Kaique" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaique38&layout=compact&langs_count=6&hide_border=true&bg_color=210B14&title_color=E7A1B4&text_color=F8E7EC&icon_color=B86A80" alt="Gráfico compacto das linguagens mais usadas nos repositórios do Kaique" />
+  <img width="100%" src="https://raw.githubusercontent.com/Kaique38/Kaique38/main/assets/language-chart.svg" alt="Gráfico personalizado da composição de linguagens no GitHub" />
 </div>
 
-
 <div align="center">
-  <sub>Distribuição calculada a partir do código dos repositórios públicos do GitHub · Atualização automática</sub>
+  <sub>Distribuição dos repositórios públicos · snapshot de 20/10/2026</sub>
 </div>
 
 
 ## 🧰 Tecnologias
 
 
+
+
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-6F1D3A?style=flat-square&logo=html5&logoColor=FFF7F8" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-7B2947?style=flat-square&logo=css3&logoColor=FFF7F8" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-8A3654?style=flat-square&logo=javascript&logoColor=FFF7F8" alt="JavaScript" />
