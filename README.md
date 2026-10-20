@@ -1,63 +1,68 @@
-<!-- Identidade visual: vinho, ameixa e rosa antigo -->
+<!-- Windows XP inspired profile desktop -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:210B14,35:4B1428,70:7A2443,100:B86A80&height=210&section=header&text=Kaique%20Mariano&fontSize=46&fontColor=FFF7F8&fontAlignY=38&desc=DESENVOLVIMENTO%20WEB%20%E2%80%A2%20IDEIAS%20QUE%20GANHAM%20FORMA&descAlignY=61&descSize=14" alt="Banner vinho: Kaique Mariano — Desenvolvimento Web" />
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0A3FA5,35:1266D6,70:2785E8,100:55A8F2&height=190&section=header&text=Kaique%20Mariano&fontSize=46&fontColor=FFFFFF&fontAlignY=38&desc=DESENVOLVIMENTO%20WEB%20%E2%80%A2%20WINDOWS%20XP%20EDITION&descAlignY=62&descSize=14" alt="Janela azul estilo Windows XP com o nome Kaique Mariano" />
 </div>
 
 <div align="center">
-  <a href="https://portfolio-kaique-kappa.vercel.app/"><img src="https://img.shields.io/badge/MEU_PORTF%C3%93LIO-6F1D3A?style=for-the-badge&logo=vercel&logoColor=FFF7F8" alt="Meu portfólio" /></a>
-  <a href="https://www.linkedin.com/in/kaiqueoliveiradev"><img src="https://img.shields.io/badge/LINKEDIN-8A3654?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:kaique.moliveira5@gmail.com"><img src="https://img.shields.io/badge/CONTATO-B45B76?style=for-the-badge&logo=gmail&logoColor=white" alt="Contato por email" /></a>
+  <sub>🟦 Arquivo　Editar　Exibir　Favoritos　Ferramentas　Ajuda</sub><br />
+  <sub>📁 Meu Computador　›　C:\Kaique\Portfolio　　🔍 Pesquisar　　📂 Pastas</sub>
 </div>
 
 <br />
 
-## ✦ Olá, eu sou o Kaique
-
-Sou estudante de **Desenvolvimento de Sistemas na ETEC Bento Quirino** e gosto de transformar ideias em produtos digitais úteis. Tenho explorado desenvolvimento web de ponta a ponta: da interface e experiência da pessoa usuária até APIs, dados e publicação.
-
-> **Aprender construindo. Melhorar a cada versão.**
-
-Aqui você encontra projetos de estudo e aplicações publicadas — cada um representa uma ideia que saiu do papel e ganhou forma na web.
-
-## 🍷 Projetos em destaque
-
-| Projeto | Um pouco sobre | Link |
-|:--|:--|:--:|
-| **Portfólio** | Meu espaço para apresentar projetos, experiências e evolução. | [Visitar ↗](https://portfolio-kaique-kappa.vercel.app/) |
-| **Litoteca Digital** | Acervo didático para explorar rochas, minerais e conchas. | [Visitar ↗](https://litotecaetecsumare.netlify.app/) |
-| **AK Gifting** | Plataforma comunitária de sorteios e interação. | [Visitar ↗](https://ak-gifting.vercel.app/) |
-| **Caixa de Cálculos** | Ferramenta web para resolver cálculos de forma prática. | [Visitar ↗](https://caixa-de-calculos.vercel.app/) |
-| **Estoque de Bolso** | Aplicação para organizar e acompanhar itens de estoque. | [Visitar ↗](https://estoque-de-bolso.vercel.app/) |
-| **Caderno de Campo** | Espaço digital para registrar e organizar anotações. | [Visitar ↗](https://caderno-de-campo-one.vercel.app/) |
-| **Sorteio Claro** | Projeto web focado em facilitar a criação de sorteios. | [Visitar ↗](https://sorteio-claro.vercel.app/) |
-| **Gráfico em Movimento** | Experimento interativo com visualização e movimento. | [Visitar ↗](https://grafico-em-movimento.vercel.app/) |
-
-## 🧰 Ferramentas que venho usando
-
 <div align="center">
-  <img src="https://img.shields.io/badge/HTML5-6F1D3A?style=flat-square&logo=html5&logoColor=FFF7F8" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-7B2947?style=flat-square&logo=css3&logoColor=FFF7F8" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-8A3654?style=flat-square&logo=javascript&logoColor=FFF7F8" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-9B4964?style=flat-square&logo=react&logoColor=white" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-6F1D3A?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express-542033?style=flat-square&logo=express&logoColor=white" alt="Express" />
-  <img src="https://img.shields.io/badge/PostgreSQL-7B2947?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Supabase-8A3654?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
-  <img src="https://img.shields.io/badge/Git-6F1D3A?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Vercel-542033?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
+  <a href="https://portfolio-kaique-kappa.vercel.app/"><img src="https://img.shields.io/badge/🖥️_ABRIR_PORTF%C3%93LIO-1466C3?style=for-the-badge" alt="Abrir portfólio" /></a>
+  <a href="https://www.linkedin.com/in/kaiqueoliveiradev"><img src="https://img.shields.io/badge/👤_LINKEDIN-2678D4?style=for-the-badge" alt="LinkedIn" /></a>
+  <a href="mailto:kaique.moliveira5@gmail.com"><img src="https://img.shields.io/badge/✉️_CONTATO-3A8DDE?style=for-the-badge" alt="Contato por email" /></a>
 </div>
 
-## 🌱 Em constante evolução
+## 🪟 Sobre mim
+
+Olá! Sou **Kaique Mariano**, estudante de **Desenvolvimento de Sistemas na ETEC Bento Quirino**. Gosto de transformar ideias em produtos digitais úteis e explorar todas as etapas: interface, experiência de uso, APIs, dados e publicação.
+
+> 💬 **Aprender construindo. Melhorar a cada versão.**
+
+Este perfil é meu cantinho na internet para reunir projetos, experimentos e coisas que estou aprendendo — com aquela nostalgia boa da área de trabalho do Windows XP. 🌤️
+
+## 🗂️ Meus projetos
+
+| Ícone | Projeto | Descrição | Ação |
+|:--:|:--|:--|:--:|
+| 🌐 | **Portfólio** | Meu espaço para apresentar projetos, experiências e evolução. | [Abrir ↗](https://portfolio-kaique-kappa.vercel.app/) |
+| 🪨 | **Litoteca Digital** | Acervo didático para explorar rochas, minerais e conchas. | [Abrir ↗](https://litotecaetecsumare.netlify.app/) |
+| 🎁 | **AK Gifting** | Plataforma comunitária de sorteios e interação. | [Abrir ↗](https://ak-gifting.vercel.app/) |
+| 🧮 | **Caixa de Cálculos** | Ferramenta web para resolver cálculos de forma prática. | [Abrir ↗](https://caixa-de-calculos.vercel.app/) |
+| 📦 | **Estoque de Bolso** | Aplicação para organizar e acompanhar itens de estoque. | [Abrir ↗](https://estoque-de-bolso.vercel.app/) |
+| 📓 | **Caderno de Campo** | Espaço digital para registrar e organizar anotações. | [Abrir ↗](https://caderno-de-campo-one.vercel.app/) |
+| 🎟️ | **Sorteio Claro** | Projeto web focado em facilitar a criação de sorteios. | [Abrir ↗](https://sorteio-claro.vercel.app/) |
+| 📊 | **Gráfico em Movimento** | Experimento interativo com visualização e movimento. | [Abrir ↗](https://grafico-em-movimento.vercel.app/) |
+
+## 🧰 Programas e ferramentas
+
+<div align="center">
+  <img src="https://img.shields.io/badge/HTML5-0A5CC0?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1675D1?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-2685DF?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-0A5CC0?style=flat-square&logo=react&logoColor=white" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-1675D1?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-246FB6?style=flat-square&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/PostgreSQL-0A5CC0?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Supabase-1675D1?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/Git-246FB6?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Vercel-0A5CC0?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
+</div>
+
+## 🌱 Em andamento...
 
 - Criando interfaces responsivas e interativas com **React**.
 - Praticando integrações entre aplicações, APIs e bancos de dados.
-- Cuidando cada vez mais de acessibilidade, organização e acabamento visual.
+- Aprimorando acessibilidade, organização e acabamento visual.
 
-## ✉️ Vamos trocar uma ideia?
+## 📬 Fale comigo
 
-Se quiser conversar sobre tecnologia ou algum projeto, me chama pelo [LinkedIn](https://www.linkedin.com/in/kaiqueoliveiradev) ou [email](mailto:kaique.moliveira5@gmail.com).
+[LinkedIn](https://www.linkedin.com/in/kaiqueoliveiradev) · [Email](mailto:kaique.moliveira5@gmail.com) · [Meu portfólio](https://portfolio-kaique-kappa.vercel.app/)
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:B86A80,50:7A2443,100:210B14&height=100&section=footer" alt="Acabamento em tons de vinho" />
-  <sub>Feito com curiosidade, café e vontade de construir. ☕</sub>
+  <sub>🟢 Iniciar　　💻 Kaique.dev　　🔊 Pronto para construir coisas legais</sub><br />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A3FA5,50:1266D6,100:55A8F2&height=35&section=footer" alt="Barra azul inspirada na barra de tarefas do Windows XP" />
 </div>
